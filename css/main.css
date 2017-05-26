@@ -33,15 +33,6 @@
   left: 39px;
 }
 
-.gif {
-  position: absolute;
-  top: 0;
-  right: 75px;
-  z-index: 5;
-  width: 200px;
-  height: 113px;
-}
-
 .img {
   width: 1036px;
   height: 540px;
@@ -340,4 +331,24 @@
   font-size: 20px;
   bottom: 8px;
   left: 345px;
+}
+
+.gif {
+  position: absolute;
+  z-index: 5;
+}
+
+#gif_1 {
+  top: 0;
+  right: 75px;
+}
+
+#gif_2 {
+  top: 52px;
+  right: 150px;
+}
+
+#gif_3 {
+  top: 450px;
+  left: 50px;
 }
