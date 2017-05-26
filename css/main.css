@@ -36,6 +36,15 @@
   left: 39px;
 }
 
+.gif {
+  position: absolute;
+  top: 0;
+  right: 75px;
+  z-index: 5;
+  width: 200px;
+  height: 113px;
+}
+
 .img {
   width: 1036px;
   height: 540px;
@@ -47,7 +56,6 @@
   height: 394px;
   top: 0;
   left: 21px;
-  opacity: .5;
 }
 #pic_2 {
   background-image: url(../img/ra2.png);
@@ -55,7 +63,6 @@
   height: 395px;
   top: 145px;
   right: 0;
-  opacity: .5;
 }
 
 .fire {
@@ -123,7 +130,6 @@
   top: 70px;
   left: 170px;
   z-index: 1;
-  opacity: .3;
 }
 #pic_4 {
   background-image: url(../img/ra4.png);
@@ -131,7 +137,6 @@
   height: 912px;
   bottom: 86px;
   right: 0;
-  opacity: .3;
 }
 
 .number {
